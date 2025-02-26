@@ -2,18 +2,18 @@
 
 by Daniel Finnerty
 
-## Setup
+## Introduction
 
-1. Sign up for a free Github account.
-2. Go to the repository page in your browser.
-3. Click the green Code button.
-4. Click the Codespaces tab.
-5. Click Create New Codespace on main.
-
-## Technologies
+This project is to both develop an understanding of the 'why' and 'how' of data analytics, and put it into practice through analysis of a data set. This is achieved with the use of the listed technolgies.
 
 - Python
 - Git
 - Github
 - Codespaces
 - Jupyter
+- Pandas
+- Scikit-learn
+
+The process and method, starting at loading the dataset, right through to analysis of the set can be found in tasks.ipynb.
+
+# End
