@@ -46,17 +46,8 @@ git config pull.rebase false
 python -m notebook
 ```
 
-## Using VS Code
+6. Select the 'tasks.ipynb' file
 
-1. Download anaconda (python) from:  
-https://www.anaconda.com/download
-    * When installing, ensure to check below 2 boxes:  
-        i.  Add to PATH variable  
-        ii. Make this version your default Python
-
-2. Download and install VS Code from:  
-https://code.visualstudio.com/Download
-
-3. In VS Code, 
+7. Click on the double-arrow icon at the top to 'restart the kernell and run all cells'.
 
 # End
